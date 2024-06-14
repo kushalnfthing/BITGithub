@@ -6,3 +6,4 @@ function yourname(name){
 
 yourname("kushal")
 yourname("afreen")
+yourname("newfrined")
