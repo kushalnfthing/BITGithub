@@ -5,3 +5,4 @@ function yourname(name){
 
 
 yourname("kushal")
+yourname("purnav")
